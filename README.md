@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingalingaling
-- 👀 I’m interested in Data Analysis and Machine Learning. Also picking up software development with Python
-- 🌱 I’m currently learning Python's Django framework
+- 👀 I’m interested in Data Analysis and Machine Learning. Also working as software developer with JavaScript
+- 🌱 I’m currently working with React/Next
 - 💞️ I’m looking to collaborate on web applications and developing REST APIs
 - 📫 How to reach me? Text me on Telegram @banana_warrior
 
